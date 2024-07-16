@@ -7,5 +7,6 @@ Comparado a outros limpadores de painéis fotovoltaicos encontrados no mercado, 
 A implementação deste limpador representa um avanço significativo na manutenção e eficiência da instalação de painéis fotovoltaicos, este sistema garante que a geração de energia solar esteja sempre operando em alta performance!
 
 Author: Thiago Bomfim da Silva
-Formação: Técnico em Automação Industrial
 
+
+Formação: Técnico em Automação Industrial
