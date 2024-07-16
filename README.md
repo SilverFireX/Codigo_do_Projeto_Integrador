@@ -6,6 +6,8 @@ Com mecânica e metodologia de programação e construção simplificada, nosso 
 Comparado a outros limpadores de painéis fotovoltaicos encontrados no mercado, nosso protótipo tem grandes diferenciais, sendo eles:  A facilidade de manuseio, a proposta de ser 100% automatizado, o baixo custo de montagem e manutenção, a alta eficiência e alta precisão na limpeza dos painéis fotovoltaicos!
 A implementação deste limpador representa um avanço significativo na manutenção e eficiência da instalação de painéis fotovoltaicos, este sistema garante que a geração de energia solar esteja sempre operando em alta performance!
 
+Link do Video do protótipo: https://youtu.be/LumUKhAnrJA?si=E08wrC872hxPwKnt 
+
 Formação: Técnico em Automação Industrial
 
 Author: Thiago Bomfim da Silva
